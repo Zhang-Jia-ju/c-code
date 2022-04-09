@@ -1,2 +1,2 @@
 # c-code
-C/C++ ，愿十年磨一剑
+Hello World,乘法表,continue,质素检验,类.....
