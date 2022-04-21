@@ -5,7 +5,7 @@ int main()
     double x,y,z;
     a=b=c=0;
     x=y=z=0.0;
-    printf("è¯·è¾“å…¥abcä»¥åŠxyzçš„å€¼:");
+    printf("ÇëÊäÈëabcÒÔ¼°xyzµÄÖµ:");
     scanf("%d",&a);
     scanf("%d",&b);
     scanf("%d",&c);
